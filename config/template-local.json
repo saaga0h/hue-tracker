@@ -1,0 +1,12 @@
+{
+  "hue": {
+    "username": "<hue-username>"
+  },
+  "db": {
+    "host": "<mongodb-hostname>",
+    "name": "<mongodb-db>",
+    "collection": "<mongodb-collection>",
+    "username": "<mongodb-username>",
+    "password": "<mongodb-password>"
+  }
+}
