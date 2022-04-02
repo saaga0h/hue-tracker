@@ -6,7 +6,7 @@
   "author": "Saaga H",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "config": "^3.0.1",
     "hue-bridge-discovery": "^1.1.2",
     "lodash": "^4.17.11",
